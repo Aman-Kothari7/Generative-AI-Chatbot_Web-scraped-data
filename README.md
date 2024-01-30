@@ -22,5 +22,5 @@ This project is an advanced chatbot system focusing on web data. It employs NLP 
 
 
 
-![Chatbot Interface]([Screenshot 2024-01-19 at 03.21.29.png](https://github.com/Aman-Kothari7/Web_data_document_Chatbot_AI/blob/1b635d338a0f69bdb0362c1b8699e8a5dbb80b7a/Screenshot%202024-01-19%20at%2003.21.29.png)https://github.com/Aman-Kothari7/Web_data_document_Chatbot_AI/blob/1b635d338a0f69bdb0362c1b8699e8a5dbb80b7a/Screenshot%202024-01-19%20at%2003.21.29.png)
-![Chatbot Interface]([Screenshot 2024-01-19 at 03.21.29.png](https://github.com/Aman-Kothari7/Web_data_document_Chatbot_AI/blob/27cb1044062d6ad5dfab4d257f1f5eae786f617f/Screenshot%202024-01-23%20at%2011.52.25.png)https://github.com/Aman-Kothari7/Web_data_document_Chatbot_AI/blob/27cb1044062d6ad5dfab4d257f1f5eae786f617f/Screenshot%202024-01-23%20at%2011.52.25.png)
+![Screenshot 2024-01-19 at 03 21 29](https://github.com/Aman-Kothari7/Web_data_document_Chatbot_AI/assets/81173561/51cc4ea8-ffbb-456b-b876-9ba35092ccee)
+![Screenshot 2024-01-23 at 11 52 25](https://github.com/Aman-Kothari7/Web_data_document_Chatbot_AI/assets/81173561/e9f72ea3-e4f7-4f77-a6fe-0a06ae062602)
