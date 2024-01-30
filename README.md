@@ -20,3 +20,7 @@ This project is an advanced chatbot system focusing on web data. It employs NLP 
 4. **Streamlit Interface**: Provides a user-friendly chatbot interface accessible through a web application.
 5. **LangChain Fine-Tuning**: Explores advanced fine-tuning techniques to refine chatbot responses based on structured CSV data.
 
+
+
+![Chatbot Interface](Screenshot 2024-01-19 at 03.21.29.png)
+![Chatbot Interface](Screenshot 2024-01-19 at 03.21.29.png)
